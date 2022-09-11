@@ -1,4 +1,4 @@
-# FlappySubShellHacks
+# FlappySub ShellHacks 2022
 Hello! This is the ShellHacks Project 2022!
 For this project, we decided to use Flappy Bird as reference for our game. It mimicks the physics and motion of the game, only it is an underwater theme.
 
